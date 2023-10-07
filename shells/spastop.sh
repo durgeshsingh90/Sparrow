@@ -1,0 +1,1 @@
+echo "Sparrow stopped succesfully"
